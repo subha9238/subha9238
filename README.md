@@ -1,134 +1,69 @@
-<h1 align="center">
-  Hi 👋, I'm Subhajeet Mohapatra
-</h1>
+# Hi, I'm Subhajeet 👋
 
-<h3 align="center">
-  💻 Passionate Software Developer | Full-Stack Developer | Problem Solver
-</h3>
+### Software Developer
 
-<p align="center">
-  <a href="https://github.com/subha9238">
-    <img src="https://img.shields.io/github/followers/subha9238?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/subha9238">
-    <img src="https://komarev.com/ghpvc/?username=subha9238&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
+I enjoy building useful software, learning new technologies, and solving problems through code.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Learning-Every%20Day-success?style=for-the-badge" alt="Learning"/>
-  <img src="https://img.shields.io/badge/Building-Projects-orange?style=for-the-badge" alt="Building"/>
-</p>
+- 💻 Interested in **Full-Stack Development**
+- 🌱 Currently learning and improving every day
+- 🚀 I like building **Web & Mobile Applications**
+- 📫 **Email:** [subhajeetmohapatra104@gmail.com](mailto:subhajeetmohapatra104@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## Connect
 
-- 💻 I'm passionate about **software development** and building practical applications.
-- 🌱 Currently improving my skills in **full-stack development**.
-- 🚀 I enjoy turning ideas into **real-world applications**.
-- 🧠 I love learning new technologies and solving challenging problems.
-- 🔧 Interested in **Web Development, Backend Development, APIs and Mobile Applications**.
-- 📚 Always learning, experimenting and improving.
-- 📂 Check out my projects on **[GitHub](https://github.com/subha9238)**.
-- 📫 Reach me at **[subhajeetmohapatra104@gmail.com](mailto:subhajeetmohapatra104@gmail.com)**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajeetmohapatra45/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shbjtt__45/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/subha9238)
 
 ---
 
-## 🌐 Connect With Me
+## Tech Stack
 
-<p align="center">
+**Languages**
 
-<a href="https://www.linkedin.com/in/subhajeetmohapatra45/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<a href="https://www.instagram.com/shbjtt__45/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+**Web & Backend**
 
-<a href="mailto:subhajeetmohapatra104@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## What I Build
+
+- 🌐 Web Applications
+- 📱 Mobile Applications
+- ⚙️ Backend & REST APIs
+- 🗄️ Database-driven Applications
+
+---
+
+## GitHub
 
 <a href="https://github.com/subha9238">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/github/followers/subha9238?style=flat&label=GitHub%20Followers" alt="GitHub Followers">
 </a>
 
-</p>
-
 ---
 
-## 🛠️ Languages & Technologies
+### Thanks for visiting! 👋
 
-### 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-</p>
-
----
-
-## 🚀 What I Love Building
-
-<p align="center">
-
-| 🌐 Web Applications | 📱 Mobile Applications |
-|:---:|:---:|
-| Full-Stack Apps | React Native Apps |
-
-| ⚙️ Backend & APIs | 🗄️ Database Applications |
-|:---:|:---:|
-| REST APIs & Server-Side Logic | MongoDB & MySQL |
-
-</p>
-
----
-
-## 🎯 Current Goals
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║  🚀 Build better full-stack applications             ║
-║  📚 Learn modern development technologies             ║
-║  🧠 Improve problem-solving skills                    ║
-║  🔧 Build useful real-world projects                  ║
-║  🌎 Grow as a software developer                      ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝>
+> Keep learning. Keep building. 🚀
