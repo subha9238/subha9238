@@ -1,69 +1,86 @@
-# Hi, I'm Subhajeet 👋
+<h1 align="center">Hey there, I'm Subhajeet 👋</h1>
 
-### Software Developer
+<p align="center">
+  <b>Software Developer • Full-Stack Enthusiast • Lifelong Learner</b>
+</p>
 
-I enjoy building useful software, learning new technologies, and solving problems through code.
-
-- 💻 Interested in **Full-Stack Development**
-- 🌱 Currently learning and improving every day
-- 🚀 I like building **Web & Mobile Applications**
-- 📫 **Email:** [subhajeetmohapatra104@gmail.com](mailto:subhajeetmohapatra104@gmail.com)
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajeetmohapatra45/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shbjtt__45/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/subha9238)
+<p align="center">
+  <a href="https://github.com/subha9238">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/subhajeetmohapatra45/">LinkedIn</a>
+  •
+  <a href="https://www.instagram.com/shbjtt__45/">Instagram</a>
+  •
+  <a href="mailto:subhajeetmohapatra104@gmail.com">Email</a>
+</p>
 
 ---
 
-## Tech Stack
+## About
 
-**Languages**
+I'm a software developer who enjoys turning ideas into working applications.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+I like exploring different areas of development, from creating user interfaces
+to building backend systems and working with databases.
 
-**Web & Backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Currently, I'm focused on improving my **full-stack development** skills and
+building projects that help me learn by doing.
 
 ---
 
-## What I Build
+## Tech I Work With
 
-- 🌐 Web Applications
-- 📱 Mobile Applications
-- ⚙️ Backend & REST APIs
-- 🗄️ Database-driven Applications
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td><b>Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+</td>
+</tr>
+
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## What I'm Interested In
 
-<a href="https://github.com/subha9238">
-  <img src="https://img.shields.io/github/followers/subha9238?style=flat&label=GitHub%20Followers" alt="GitHub Followers">
-</a>
-
----
-
-### Thanks for visiting! 👋
-
-> Keep learning. Keep building. 🚀
+```text
+Web Development       ████████████████████
+Backend Development   █████████████████
+Mobile Development    ███████████████
+APIs & Databases      ████████████████
+Problem Solving       ███████████████████
