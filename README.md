@@ -1,33 +1,43 @@
 <div align="center">
 
-# `> subhajeet.init()`
+<!-- Hero Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:00ffcc&height=220&section=header&text=SUBHAJEET%20MOHAPATRA&fontSize=42&fontAlignY=42&desc=BACKEND%20ENGINEER%20%7C%20DJANGO%20%7C%20SYSTEMS&descAlignY=62&descSize=18&fontColor=00ffcc&descColor=ffffff" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Software+Engineer+in+the+making;Backend+Architect+%E2%80%A2+Django+%7C+Python;Turning+logic+into+scalable+systems.)](https://git.io/typing-svg)
+<br/>
 
-<p>
+<!-- Dynamic Terminal Typing Line -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=false&width=650&lines=Building+Scalable+Backend+Pipelines+%E2%9A%A1;Engineering+Robust+Django+Architectures+%F0%9F%9B%A0%EF%B8%8F;Translating+Complex+Logic+Into+Clean+APIs+%F0%9F%9A%80" alt="Typing Banner" />
+</a>
+
+<p align="center">
   <a href="https://linkedin.com/in/subhajeetmohapatra45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
+  &nbsp;
   <a href="mailto:subhajeetmohapatra104@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/shbjtt__45" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=subha9238&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="95%" />
+
 </div>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Subhajeet Mohapatra"
-        self.role = "Backend & Software Developer"
-        self.toolkit = ["Python", "Django", "JavaScript", "C/C++", "SQL"]
-        self.architecture = ["RESTful APIs", "Relational Databases", "Clean Code"]
+---
 
-    def current_mission(self):
-        return "Building resilient web backends and refining core algorithms."
+### ⚡ `SYSTEM.CONFIG // ABOUT_ME`
 
-dev = Developer()
-print(dev.current_mission())
+```json
+{
+  "engineer": "Subhajeet Mohapatra",
+  "status": "Engineering Scalable Backend Systems",
+  "core_stack": ["Python", "Django", "JavaScript", "SQL"],
+  "architecture_philosophy": "Strict Typing, Decoupled Services, Optimized Queries",
+  "current_focus": "High-throughput APIs & relational data pipelines"
+}
